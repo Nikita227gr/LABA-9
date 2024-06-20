@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\bin\Debug\Lab9Var15.exe.config
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\bin\Debug\Lab9Var15.exe
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\bin\Debug\Lab9Var15.pdb
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\obj\Debug\Lab9Var15.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\obj\Debug\Lab9Var15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\obj\Debug\Lab9Var15.exe
+C:\Users\User\source\repos\Lab9Var15\Lab9Var15\obj\Debug\Lab9Var15.pdb
